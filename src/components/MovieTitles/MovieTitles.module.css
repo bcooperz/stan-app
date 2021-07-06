@@ -1,0 +1,11 @@
+.movie-titles-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.movie-titles-container a {
+    text-decoration: none;
+    color: inherit;
+}

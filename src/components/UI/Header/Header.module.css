@@ -1,0 +1,58 @@
+.page-header {
+    font-size: calc(10px + 2vmin);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(8,42,98);
+    background: linear-gradient(0deg, rgba(8,42,98,1) 0%, rgba(14,132,255,1) 100%, rgba(7,126,150,1) 100%);
+    z-index: 110;
+    -moz-box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.596);
+    -webkit-box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.596);
+    box-shadow: 0px 1px 4px 2px rgba(0, 0, 0, 0.596);
+}
+
+.page-header__name {
+    padding-left: 10%;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.page-header__name > a {
+    color: white;
+    text-decoration: none;
+}
+
+.page-header__nav-container {
+    display: flex;
+    padding: 8px;
+    padding-right: 5%;
+}
+
+.page-header__nav-container > button {
+    margin: 12px;
+    padding: 12px;
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: white;
+}
+
+.page-header__transparent-button {
+    background-color: transparent;
+}
+
+.page-header__black-button {
+    background-color: #282c34;
+}
+
+.page-header__transparent-button:hover {
+    color: #ccc;
+}
+
+.page-header__black-button:hover {
+    background-color: black;
+}

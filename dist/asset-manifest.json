@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.597ab41f.chunk.css",
+    "main.js": "/static/js/main.c4d91569.chunk.js",
+    "main.js.map": "/static/js/main.c4d91569.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f9da12a9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f9da12a9.js.map",
+    "static/js/2.648ece43.chunk.js": "/static/js/2.648ece43.chunk.js",
+    "static/js/2.648ece43.chunk.js.map": "/static/js/2.648ece43.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.597ab41f.chunk.css.map": "/static/css/main.597ab41f.chunk.css.map",
+    "static/js/2.648ece43.chunk.js.LICENSE.txt": "/static/js/2.648ece43.chunk.js.LICENSE.txt",
+    "static/media/app-store.709c1ac0.svg": "/static/media/app-store.709c1ac0.svg",
+    "static/media/facebook-white.dec54804.svg": "/static/media/facebook-white.dec54804.svg",
+    "static/media/instagram-white.43bb1c81.svg": "/static/media/instagram-white.43bb1c81.svg",
+    "static/media/play-store.73d72a5f.svg": "/static/media/play-store.73d72a5f.svg",
+    "static/media/twitter-white.d40d391a.svg": "/static/media/twitter-white.d40d391a.svg",
+    "static/media/windows-store.6c6aaa1e.svg": "/static/media/windows-store.6c6aaa1e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9da12a9.js",
+    "static/js/2.648ece43.chunk.js",
+    "static/css/main.597ab41f.chunk.css",
+    "static/js/main.c4d91569.chunk.js"
+  ]
+}

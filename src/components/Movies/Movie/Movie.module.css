@@ -1,0 +1,16 @@
+.movie-item-container {
+    margin: 0 8px;
+    cursor: pointer;
+    max-width: 150px;
+}
+
+.movie-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000;
+    height: 200px;
+    width: 131px;
+    font-size: 24px;
+    color: white;
+}

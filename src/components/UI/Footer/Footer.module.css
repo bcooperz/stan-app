@@ -1,0 +1,54 @@
+.footer {
+    background-color: #1F1F1F;
+    color: #cfcfcf;
+    padding-left: 10%;
+    padding-right: 5%;
+    padding-top: 32px;
+    font-size: 13px;
+}
+
+.link-container {
+    display: flex;   
+}
+
+.navigation-item {
+    margin: 0 8px;
+}
+
+.link-container .navigation-item:first-of-type {
+    margin: 0 8px 0 0;
+}
+
+.navigation-item > a {
+    color: #cfcfcf;
+    text-decoration: none;
+}
+
+.navigation-item > a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.additional-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 48px;
+    padding-bottom: 32px;
+}
+
+.social-links {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.image-logo {
+    margin: 12px;
+}
+
+.app-store-links {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}

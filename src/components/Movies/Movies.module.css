@@ -1,0 +1,11 @@
+.movies-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.movies-container a {
+    text-decoration: none;
+    color: inherit;
+}

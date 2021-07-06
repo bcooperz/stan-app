@@ -1,0 +1,5 @@
+.home-container {
+  display: grid;
+  min-height: 100vh;
+  grid-template-rows: 84px 56px auto fit-content(300px);
+}

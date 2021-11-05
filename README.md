@@ -25,5 +25,5 @@
 
  ## Notes:
  ### To serve from dist folder
- 1. Run npm install -g serve
- 2. Run serve -s dist
+ 1. npm install -g serve
+ 2. serve -s dist
